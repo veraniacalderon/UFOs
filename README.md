@@ -38,4 +38,5 @@ The summary addresses one drawback of this webpage (2 pt)
 The summary addresses two additional recommendations for further development (4 pt)
 
 <img width="1440" alt="Screen Shot 2022-09-16 at 12 23 42 PM" src="https://user-images.githubusercontent.com/102995385/190830988-008475b3-2926-4c2d-befd-eb95e9822ce3.png">
+<img width="1440" alt="Screen Shot 2022-09-16 at 4 45 26 PM" src="https://user-images.githubusercontent.com/102995385/190831169-de9b48ca-a8cc-4fb1-83fb-985960368e43.png">
 
