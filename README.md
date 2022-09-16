@@ -34,6 +34,8 @@ Results:
 
 There is a description of how to perform a search, with images. (4 pt)
 Summary:
-
 The summary addresses one drawback of this webpage (2 pt)
 The summary addresses two additional recommendations for further development (4 pt)
+
+<img width="1440" alt="Screen Shot 2022-09-16 at 12 23 42 PM" src="https://user-images.githubusercontent.com/102995385/190830988-008475b3-2926-4c2d-befd-eb95e9822ce3.png">
+
